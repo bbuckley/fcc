@@ -7,4 +7,4 @@ add note about each topic --
 * [css.html](css.html)
 * [css.md](css.md)
 
-another line
+export PS1="\[\033[32m\] \[\033[33;1m\]\w\[\033[m\] (\$(git branch 2>/dev/null | grep '^*' | colrm 1 2)) \$ "
