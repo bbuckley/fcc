@@ -1,0 +1,12 @@
+#filter {
+    list-style-type: none;
+    margin: 0;
+    padding: 2px;
+    overflow: hidden;
+    /*background-color: #333333;*/
+}
+
+#filter li {
+  float: left;
+  padding: 2px;
+}
