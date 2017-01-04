@@ -11,3 +11,4 @@ another line
 
 
 * https://github.com/reactjs/react-redux/issues/325
+* gorangajic/es6-spread-immutable-cheatsheet.md
